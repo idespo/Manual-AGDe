@@ -2,7 +2,6 @@ site_name: Manual de uso
 theme:
   name: material
 
-# Extensiones de Markdown (agregar esto)
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -10,14 +9,13 @@ markdown_extensions:
       custom_fences:
         - name: mermaid
           class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
+          format: python:pymdownx.superfences.fence_code_format
   - pymdownx.tasklist:
       custom_checkbox: true
   - attr_list
   - footnotes
   - tables
 
-# Plugins (agregar esto)
 plugins:
   - search
   - git-revision-date-localized
