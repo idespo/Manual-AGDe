@@ -1,0 +1,39 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "🚀 Iniciar MkDocs",
+            "type": "shell",
+            "command": "mkdocs serve --dev-addr=0.0.0.0:8000 --livereload",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "reveal": "always",
+                "panel": "dedicated"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "📦 Construir sitio estático",
+            "type": "shell",
+            "command": "mkdocs build",
+            "presentation": {
+                "reveal": "always",
+                "panel": "dedicated"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "🧹 Limpiar y reconstruir",
+            "type": "shell",
+            "command": "rm -rf site && mkdocs build",
+            "presentation": {
+                "reveal": "always",
+                "panel": "dedicated"
+            },
+            "problemMatcher": []
+        }
+    ]
+}

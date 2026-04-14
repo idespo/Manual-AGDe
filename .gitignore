@@ -1,0 +1,4 @@
+site/
+mkdocs.log
+__pycache__/
+*.pyc

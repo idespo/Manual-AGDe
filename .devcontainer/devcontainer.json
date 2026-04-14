@@ -1,0 +1,24 @@
+{
+    // Nombre del entorno (solo para identificar)
+    "name": "MkDocs Manual Dev",
+    
+    // Imagen oficial que YA tiene todo: Python, MkDocs, Material theme
+    // No necesita instalar nada adicional
+    "image": "squidfunk/mkdocs-material",
+    
+    // Expone el puerto 8000 para ver el manual en el navegador
+    // VS Code preguntará "¿Abrir en navegador?"
+    "forwardPorts": [8000],
+    
+    // Configuración opcional: auto-guardado y extensiones útiles
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "yzhang.markdown-all-in-one"  // Atajos y preview de Markdown
+            ],
+            "settings": {
+                "files.autoSave": "afterDelay"  // No necesitas Ctrl+S
+            }
+        }
+    }
+}
