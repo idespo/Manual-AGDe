@@ -3,12 +3,13 @@
     "name": "MkDocs Manual Dev",
     
     // Imagen oficial que YA tiene todo: Python, MkDocs, Material theme
-    // No necesita instalar nada adicional
     "image": "squidfunk/mkdocs-material",
     
     // Expone el puerto 8000 para ver el manual en el navegador
-    // VS Code preguntará "¿Abrir en navegador?"
     "forwardPorts": [8000],
+    
+    // 📌 NUEVO: Instala el plugin awesome-pages después de crear el contenedor
+    "postCreateCommand": "pip install mkdocs-awesome-pages-plugin",
     
     // Configuración opcional: auto-guardado y extensiones útiles
     "customizations": {
