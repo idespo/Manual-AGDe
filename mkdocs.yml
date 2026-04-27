@@ -1,6 +1,7 @@
 site_name: Manual de uso del AGDe
 theme:
   name: material
+  palette: 'indigo'
 
 nav:
   - Inicio: index.md
@@ -18,6 +19,8 @@ markdown_extensions:
   - attr_list
   - footnotes
   - tables
+  - toc:
+      permalink: true
 
 plugins:
   - search
