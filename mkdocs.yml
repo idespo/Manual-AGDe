@@ -1,6 +1,9 @@
-site_name: Manual de uso
+site_name: Manual de uso del AGDe
 theme:
   name: material
+
+nav:
+  - Inicio: index.md
 
 markdown_extensions:
   - admonition
