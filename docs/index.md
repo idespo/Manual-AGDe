@@ -1,16 +1,15 @@
-# Mi Manual Técnico
+# Como usar el AGDe
 
 Bienvenido a mi documentación.
 
 ## Secciones
 
-- Instalación
-- Configuración
-- Uso diario
-- Hola Mundo
-- Costo pero funciona
-- Hicimos una tarea
-- Nuevo contenedor
+- Elaboración de documentos
+- Recepción
+- Despacho
+- Firma
+- Archivo
+- Expendientes
 
 ## Partes
 
