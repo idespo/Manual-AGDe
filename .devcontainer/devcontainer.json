@@ -1,24 +1,27 @@
 {
-    // Nombre del entorno (solo para identificar)
+    // Nombre del entorno (aparece en VS Code)
     "name": "MkDocs Manual Dev",
     
-    // Imagen oficial que YA tiene todo: Python, MkDocs, Material theme
+    // Imagen oficial de Material for MkDocs (ya trae Python, MkDocs, etc.)
     "image": "squidfunk/mkdocs-material",
     
-    // Expone el puerto 8000 para ver el manual en el navegador
+    // Puerto para ver el manual en el navegador
     "forwardPorts": [8000],
     
-    // 📌 NUEVO: Instala el plugin awesome-pages después de crear el contenedor
-    "postCreateCommand": "pip install mkdocs-awesome-pages-plugin",
+    // Comandos que se ejecutan después de crear el contenedor
+    // Se instala un plugin adicional y se configura Git para evitar errores de permisos
+    "postCreateCommand": "pip install mkdocs-awesome-pages-plugin && git config --global --add safe.directory /workspaces/Manual-AGDe",
     
-    // Configuración opcional: auto-guardado y extensiones útiles
+    // Personalizaciones para VS Code
     "customizations": {
         "vscode": {
+            // Extensiones útiles para trabajar con Markdown
             "extensions": [
-                "yzhang.markdown-all-in-one"  // Atajos y preview de Markdown
+                "yzhang.markdown-all-in-one"
             ],
+            // Configuración del editor
             "settings": {
-                "files.autoSave": "afterDelay"  // No necesitas Ctrl+S
+                "files.autoSave": "afterDelay"   // Guardado automático cada pocos segundos
             }
         }
     }
