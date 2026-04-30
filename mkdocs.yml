@@ -1,4 +1,4 @@
-site_name: Manual de uso del AGDe
+site_name: Manual de uso del Sistema de Gestión de Documentos Electrónicos (AGDe)
 theme:
   name: material
   palette:
@@ -71,6 +71,7 @@ markdown_extensions:
 
 plugins:
   - search
+  - autorefs
   - git-revision-date-localized
   - awesome-pages
   - minify:
