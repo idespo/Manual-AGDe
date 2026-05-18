@@ -14,7 +14,7 @@ Bienvenido a mi documentación.
   - [Validación de documentos](uso/vali_docs.md)
   - [Despacho](uso/despacho_docs.md)
   - **Archivo**
-    - [Sistema de clasificación](uso/archivo/sistem_clasifi.md)
+    - [Sistema de clasificación](uso/archivo/clasificacion.md)
     - **Expedientes**
         - [Funcionales](uso/archivo/funcionales.md)
         - [Asuntos](uso/archivo/asuntos.md)

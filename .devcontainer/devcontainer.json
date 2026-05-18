@@ -10,7 +10,7 @@
     
     // Comandos que se ejecutan después de crear el contenedor
     // Se instala un plugin adicional y se configura Git para evitar errores de permisos
-    "postCreateCommand": "pip install mkdocs-awesome-pages-plugin && git config --global --add safe.directory /workspaces/Manual-AGDe",
+    "postCreateCommand": "pip install mkdocs-autorefs mkdocs-awesome-pages-plugin mkdocs-minify-plugin mkdocs-git-revision-date-localized-plugin && git config --global --add safe.directory /workspaces/Manual-AGDe",
     
     // Personalizaciones para VS Code
     "customizations": {
