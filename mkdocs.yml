@@ -1,3 +1,6 @@
+extra_css:
+  - stylesheets/extra.css
+
 site_name: Manual de uso del Sistema de Gestión de Documentos Electrónicos (AGDe)
 theme:
   name: material
@@ -52,8 +55,6 @@ nav:
         - Asuntos: uso/archivo/asuntos.md
   - Acerca de: about.md
 
-
-
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -86,8 +87,5 @@ extra:
       link: https://www.instagram.com/idespo_una/
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@idespouna1975
-
-extra_css:
-  - stylesheets/extra.css
 
 copyright: 'Copyright &copy; 2026 - <span id="current-year"></span> <script>document.getElementById("current-year").innerHTML = new Date().getFullYear();</script> Livan Gómez'
