@@ -53,6 +53,7 @@ nav:
       - Expedientes: 
         - Funcionales: uso/archivo/funcionales.md
         - Asuntos: uso/archivo/asuntos.md
+  - FAQ: faq.md
   - Acerca de: about.md
 
 markdown_extensions:
