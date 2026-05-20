@@ -5,6 +5,10 @@
     Ingrese al sistema mediante el siguiente enlace:
     [https://agd.una.ac.cr/share/page/](https://agd.una.ac.cr/share.page/){:target="_blank"}
 
+    ![Ingreso al AGDe login principal](/images/img_ingreso_login_001.png)
+
+    Para ingresar debe digital su cédula y la contraseña unificada.
+
 2. **A través del sitio web institucional**
 
     Puede acceder al sistema siguiendo esta ruta desde la página principal de la UNA:
