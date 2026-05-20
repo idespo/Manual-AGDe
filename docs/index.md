@@ -2,9 +2,11 @@
 
 ## [Inicio](index.md)
 
-- [Guía de uso](uso/index.md)
+## [Guía de uso](uso/index.md)
+    
     - [Ingreso](uso/ingreso.md)
     - [Visualización](uso/visualizacion.md)
+    - [Favorito](uso/favorito.md)
     - [Recepción de documentos](uso/recep_docs.md)
     - [Trámite de documentos](uso/trami_docs.md)
     - [Elaboración de documentos](uso/elabo_docs.md)
