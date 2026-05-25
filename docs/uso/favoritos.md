@@ -23,16 +23,19 @@ Ingrese al sitio que desea eliminar como favorito. Luego, diríjase a la pestañ
 
 ## ¿Cómo establecer la bibliioteca del sitio como panel de inicio?
 
-1. Ingrese al sitio colaborativo y diríjase a la pestaña **"Bibloteca de docunentos"**.
-2. En la barra superior de fondo negro, donde aparece su nombre de usuario, seleccione la opción **"Usar página actual"**.
+1. Ingrese al sitio colaborativo y diríjase a la pestaña **"Bibloteca de documentos"** y de clic.
 
     ![Establecer panel de inicio](/images/img_sitios_favorito_002.png)
 
+2. Una vez dentro del sitio vera las siguientes carpetas.
+
     ![Biblioteca de documentos](/images/img_sitios_favorito_003.png)
+
+2. En la barra superior de fondo negro, donde aparece su nombre de usuario, seleccione la opción **"Usar página actual"**.
 
     ![Usar pagina actual](/images/img_sitios_favorito_004.png)
 
-3. El sistema nmostrará el mesanje **"Página de inicio actualizada con éxito"**.
+3. El sistema mostrará el mesanje **"Página de inicio actualizada con éxito"**.
 
     ![Actualización con éxito](/images/img_sitios_favorito_005.png)
 
