@@ -20,3 +20,18 @@
         ![Ingresar al buscador de sitios](/images/img_sitios_005.png)
 
         ![Barra para buscar sitios ](/images/img_sitios_006.png)
+
+## Ingreso a la instancia seleccionada
+   
+1. Ingrese al sitio colaborativo y diríjase a la pestaña **"Bibloteca de documentos"** y de clic.
+
+    ![Establecer panel de inicio](/images/img_sitios_favorito_002.png)
+
+2. Una vez dentro del sitio vera las siguientes carpetas.
+
+    ![Biblioteca de documentos](/images/img_sitios_favorito_003.png)
+
+## ¿En cuál carpeta debo trabajar dentro del Sistema AGDe?
+
+Se debe trabajar en la carperta nombrada **"SGDOC"**
+
