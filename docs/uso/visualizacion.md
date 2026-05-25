@@ -1,4 +1,4 @@
-# Visualización de la instancia dentro del Sistema AGDe
+## Visualización de la instancia dentro del Sistema AGDe
 
 1. Una vez ingresado al sistema, seleccione la pestaña **"Sitios"** ubicada en el menú principal, en la parte supeior de la pantalla.
 
