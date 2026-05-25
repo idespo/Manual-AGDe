@@ -1,4 +1,4 @@
-# Formas de ingresar al sistema AGDe
+## Formas de ingresar al sistema AGDe
 
 1. **Acceso directo por enlace web**
 
