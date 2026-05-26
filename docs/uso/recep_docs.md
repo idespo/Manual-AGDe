@@ -1,12 +1,35 @@
 ## Lo primero al recibir un documento
 
 - Verficar que el destinatario sea el correcto
-- Validar que contenga una firma digital certificada
+- Validar que contenga una firma digital certificada <span id="firma"></span>
     - El sistema AGDe valida todos los documentos que se encuentran en él, marcando con un check de color gris :fontawesome-solid-check-square: con la leyenda <span class="verde">(Válida)</span> en verde, dentro del menú derecho **"Firmas digitales"**.
 - Verificación de metadatos completos
     - El documento debe contar con el **identificador único del documento (consecutivo)**, el **título**, **asunto**, y el **autor** (nombre de la persona con potestad legal de firma en la instancia) correctamente definidos.
 
 ## Procedimiento a seguir en caso de inconsistencias
 
+1. Error en la instancia destinataria
+    1. Instancia que recibe el documento de forma errónea
+    2. Instancia que comete el error
+1. Error en el contenido del documento
+    1. Instancia que recibe el documento con contenido erróneo
+    2. Instancia que comete el error en el contenido
 
+## Si el documento está correcto
 
+- Aplique la regla **"TRAMITAR DOCUMENTOS"** para atenderlo o asignarlo según corresponda.
+
+## Todo documento al ser recibido aparece con la leyenda **"COPIA-"**
+
+Al recibir un documento, antes del identificador único (consecutivo) aparece la palabra **"COPIA-**, esta es generada automáticamente por el sistema; el documento es válido y se considera como original para la instancia donde es recibido. No debe generar preocupación, ya que, a partir de la implementación de las mejoras del sistema, los documentos incluirán dicho prefijo antes del nombre.
+
+Ejemplo: **COPIA-UNA-IDESPO-OFIC-001-2026.PDF**
+
+## Documentos recibidos por fuera del AGDe
+
+1. Digitalizar o guardar el documento:
+   1. Si se trata de un documento en papel, proceda a escanearlo.
+   2. Si es un documento electrónico, guárdelo en su computadora.
+2. Ingrese al sistema AGDe
+   1. Acceda a la carpeta **"Recepción de documentos"** de su instancia y cargue el archivo correspondiente.
+3. [Verifique la firma digital certificada](#firma)
