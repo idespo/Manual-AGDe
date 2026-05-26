@@ -35,3 +35,9 @@
 
 Se debe trabajar en la carperta nombrada **"SGDOC"**
 
+![Carpeta de trabajo](/images/img_carpeta_trabajo.png)
+
+## ¿Qué sucede con la carpeta que contiene el codigo y nombre de la instancia?
+
+Esta corresponde a la carpeta anterior **(carpeta vieja)**, la cual se utilizaba en el repositorio. Se mantiene unicamente para efectos de consulta de documentos.
+No obstante, dicha carpeta **no permite la ejecución del flujo de trabajo**, por lo que **no aplica las reglas necesarias para la recepción de documentos**.
