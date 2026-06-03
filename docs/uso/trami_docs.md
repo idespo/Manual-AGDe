@@ -79,3 +79,37 @@ Sí, en la carpeta *"Trámites de documentos"* es posible asignar una tarea de f
       1. Diríjase a la opción ***Elementos seleccionados***, seleccione ***Iniciar un flujo de trabajo***, elija el flujo correspondiente, complete los campos requeridos y verifique que esté marcado el check en ***Enviar notificaciones de correo electrónico***.
    3. Finalmente, haga clic en **Iniciar flujo de trabajo**.
 
+## ¿Dónde puedo ver mis tareas y las que he asignado?
+
+En el menú superior de la pantalla, seleccione la pestaña **"Tareas"**. Allí encontrará dos secciones principales:
+
+   1. **Mís tareas**
+    - Corresponde a las tareas que tiene pendientes de ejecutar. Puede visualizarse según los siguientes criterios:
+        1. Estado (activas o completadas)
+        2. Vencimiento
+        3. Nivel de prioridad
+        4. Personas asignada
+   2. **Flujos de trabajo que he iniciado**
+    - Muestratodas las tareas que usted ha asignado a otras personas, permitiéndole dar seguimiento a su ejecución.
+
+## Sí, me equivoqué al asginar una tarea 
+
+### ¿Cómo puedo editarla?
+
+Utilice la opción **"Reasignar"**, ubicada en la parte superior del flujo de trabajo, si desea cambiar el responsable.
+
+### ¿Cómo puedo eliminarla?
+
+Para eliminar la tarea, ingrese a la pestaña **"Tareas"** y seleccione la opción **"Flujos de trabajo que he iniciado"**, localice el documento correspondiente. Sin necesidad de ingresar al dpcimento, en la opción del lado derecho, haga clic en **"Cancelar flujo de trabajo"**.
+Esto anulará la asignación actual y le permitiráreiniciar el proceso si lo desea.
+
+## Marcar una tarea como realizada
+
+Para indicar que una tarea ya fue ejecutada, siga estos pasos:
+
+   1. Ingrese a la pestaña **"Tareas"** y selecciones **"Mis tareas"**.
+   2. Acceda directamente al documento correspondiente.
+   3. En el campo **Estado**, seleccione la opción **"Completado"**.
+   4. Agregue un comentario si desea dejar una observación o referncia (opcional).
+   5. Haga clic en **"Tarea hecha"** para finalizar el registro, cuando la tarea fue asignada únicamente a una persona.
+   6. Haga clic en **"Aprobar"** para finalizar el registro, cuando la tarea fue asignada a varias personas.
