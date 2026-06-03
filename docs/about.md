@@ -1,1 +1,1 @@
-# Este manual es para aprender a susar el AGGDE
+Este manual esta basado en las diapositivas de la Sección de Documentación y Archivo (SDA).
