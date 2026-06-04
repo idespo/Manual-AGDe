@@ -113,3 +113,29 @@ Para indicar que una tarea ya fue ejecutada, siga estos pasos:
    4. Agregue un comentario si desea dejar una observación o referncia (opcional).
    5. Haga clic en **"Tarea hecha"** para finalizar el registro, cuando la tarea fue asignada únicamente a una persona.
    6. Haga clic en **"Aprobar"** para finalizar el registro, cuando la tarea fue asignada a varias personas.
+
+## Mis tareas vuelven a **Mis Tareas**, ¿es un error?
+
+La respuesta corta es "No". Es el funcionamiento normal del sistema. Vamos a la respuesta larga.
+
+### ¿Que está ocurriendo?
+
+Cuando una tarea es asignada a una persona y esta la marca  como "Tarea hecha", el sistema devuelve la tarea a "Mis tareas" de la persona que inicio el flujo de trabajo o asigno la tarea, generalmente la notifiacción es **"Se le ha asignado una tarea"**.
+
+Este comportamiento es normal y forma parte del contrl de flujo de trabajo del sistema AGDe.
+
+### ¿Por qué sucede?
+
+El sistema requiere que la persona que inicio el flujo de trabajo confirme que la gestión fue  atendida, a fin de cerrar correctamente la tarea y mantener la trazabilidad del proceso.
+
+### ¿Que se debe hacer para que la tarea desaparezca?
+
+La persona que inicio el flujo de trabajo debe:
+
+1. Ingresar a la pestaña **"Tareas"** y seleccionar **"Mis tareas"**.
+2. Acceder a la tarea que regresó al sistema, generalmente aparece como **"Se ha revisado y aprobado el documento"** o puede ingresar con el enlace directo del correo electrónico.
+3. Verificar la gestión realizada.
+4. En **"Estado"**, seleccionar completado.
+5. Marcar la tarea como **"Tarea hecha"**.
+
+Una vez realizado este paso, la tarea se cierra definitivamente y deja de visualizarse en **"Mis tareas"**.

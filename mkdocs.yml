@@ -1,3 +1,7 @@
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/live2d-widget@3.1.4/lib/L2Dwidget.min.js
+  - javascripts/live2d-init.js
+
 extra_css:
   - stylesheets/extra.css
 
@@ -58,6 +62,7 @@ nav:
 
 markdown_extensions:
   - attr_list
+  - pymdownx.blocks.caption
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
