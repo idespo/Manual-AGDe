@@ -37,8 +37,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - toc.follow
-    - toc.integrate 
-
+    - toc.integrate
 
 nav:
   - Inicio: index.md
@@ -51,6 +50,7 @@ nav:
     - Trámite de documentos: uso/trami_docs.md
     - Elaboración de documentos: uso/elabo_docs.md
     - Validación de documentos:
+      - Introducción: uso/vali_docs.md
       - Firmar documentos: uso/firmar.md
       - Revisión de documentos: uso/revision.md
     - Despacho: uso/despacho_docs.md
