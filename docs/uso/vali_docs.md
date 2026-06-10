@@ -1,1 +1,1 @@
-# Este manual es para aprender a susar el AGGDE
+Esta sección contiene dos subcarpetas, cada una con sus  respectivas reglas
