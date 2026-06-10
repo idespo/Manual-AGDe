@@ -91,3 +91,34 @@ Documento que elaboro como respuesta:
 
 ## ¿Comó corregir un documento antes del despacho?
 
+1. En el buscador del sistema AGDe, escriba el consecutivo del oficio para locarlizar el documento.
+2. Verifique la ubicación del documento en formato PDF, es decir, identifique en cuál carpeta se encuentra:
+    + Si está en **"Firmar documentos"**, significa que el documento está en proceso de firma y no ha sido enviado a despacho.
+    + Si está en **"Documentos archivados"**, significa que el documento ya fue firmado y enviado para su despacho.
+    + Si en los metadatos del documento se indica **"Documento compartido"**, significa que el documento ya ha sido despachado a la **"Oficina de destino"**.
+3. Identifique la versión editable del documento, que se encuentra en la carpeta **"Documentos editables"**.
+4. Si el documento no ha sido despachado a la instancia (destinatario):
+    + Elimine el documento en formato PDF.
+    + Abra la versión editable o localícela en la carpeta **"Documentos editables"** y utilice la opción **"Mover a"** para trasladarlo a la carpeta **"Elaboración de documentos"**.
+    + Realicelas correcciones necesarias y procesa a **"Enviar a revisar"** o **"Eviar a firmar"** para que se le apliquen nuevamente las reglas correspondientes.
+
+## Errores comunes en la elaboracón de documentos
+
+1. Añadir información adicional al nombre del documento. Ejemplo incorrecto: **UNA-IDESPO-OFIC-501-2026 ~~Liquidación de caja chica~~.pdf**
+    + El nombre del documento debe corresponder exactamente al consecutivo generado por el sistema, **sin agregar descripciones o detalles adicionales**.
+    + Ejemplo correcto: **UNA-IDESPO-OFIC-501-2026.pdf**
+  
+2. Asignar un consecutivo incorrecto al documento. Ejemplo: **UNA-IDESPO-OFIC-701-2025.pdf** cuando el consecutivo correcto era **UNA-IDESPO-OFIC-501-2026.pdf**
+    + Es fundamental utilizar el consecutivo asignado por el sistema para evitar errores.
+
+3. No guardar el documento en el formato requerido **(ODT o DOC)**. Esto provoca desconfiguración del archivo.
+4. Agregar elementos adicionales en el identificador único del documento **(-, espacios, etc.)**.
+    + Ejemplos incorrectos:
+        + **"-UNA-IDESPO-OFIC-501-2026.pdf"** :material-arrow-right-bold: en este ejemplo se pone una raya adelante **"<span class="rojo">-UNA</span>"**
+        + **"UNA-IDESPO-OFIC-501-2026..pdf"** :material-arrow-right-bold: en este ejemplo se pone un dos puntos despues del año **"<span class="rojo">2026..PDF</span>"**
+        + **" UNA-IDESPO-OFIC-501-2026.pdf"** :material-arrow-right-bold: en este ejemplo se deja un espacio al inicio del consecutivo **"<span class="rojo">:material-keyboard-space:UNA</span>"**
+        + **"UNA-IDESPO-OFIC-501-2026 .pdf"** :material-arrow-right-bold: en este ejemplo se deja un espacio al final del año **"<span class="rojo">2026 .PDF</span>"**
+        + **"UNA-IDESPO-OFIC-501-2026. pdf"** :material-arrow-right-bold: en este ejemplo se deja un espacio despues del punto y el PDF **"<span class="rojo">2026. PDF</span>"**
+    + Hay que evitar cualquiera de los anteriores o cualquier otro que no se menciones aquí.
+5. El sistema no permitirá utilizar la opción **"^^Cargar nueva versión^^"** y mostrará un mensaje de error en color naranja. Para solucionarlo, debe corregir el error que corresponda para que coincida exactamente con el consecutivo generado por el sistema.
+
