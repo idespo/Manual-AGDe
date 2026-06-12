@@ -11,3 +11,10 @@
 1. Ubíquese en la carpeta **"Firmar documentos"** correspondiente al puesto o cargo que le aplica.
 2. **No ingrese directamente al documento**. En su lugar, en el panel de acciones, utilice la regla **"Firmar digitalmente"** (elija con o sin firma visible según corresponda) o bien la opción **"Cargarnueva versión"**para subir el documento ya firmado digitalmente.
 3. Sin necesidad de ingresar al documento, utilice en el panel de acciones del lado derecho la opción **"ENVIAR ARCHIVAR"** para proceder con el despacho del documento.
+
+## ¿Cómo firmar un documento por dos o más personas internas de mi instancia?
+
+Acción recomendad:
++ En la  carpeta **"Firmar documentos"**, utilice la opción **"Iniciar un flujo de trabajo"** **(Tarea)** para asignar la acción a las personas correspondientes, indicándoles la instrucción de firmar digitalmente el documento.
++ Debe asegurarse de que la persona o personas asigandas tengan acceso a la carpeta **"Firmar documentos"**. En caso de que un funcionario interno no tenga aceso, debe habilitarlo mediante la opción **"Administrar permisos"**, asginándole el **rol de colaborador**. De esta manera, podrá acceder al documento y realizar la firma digital correspondiente.
+
