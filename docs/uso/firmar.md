@@ -14,7 +14,30 @@
 
 ## ¿Cómo firmar un documento por dos o más personas internas de mi instancia?
 
-Acción recomendad:
+Acción recomendada:
+
 + En la  carpeta **"Firmar documentos"**, utilice la opción **"Iniciar un flujo de trabajo"** **(Tarea)** para asignar la acción a las personas correspondientes, indicándoles la instrucción de firmar digitalmente el documento.
 + Debe asegurarse de que la persona o personas asigandas tengan acceso a la carpeta **"Firmar documentos"**. En caso de que un funcionario interno no tenga aceso, debe habilitarlo mediante la opción **"Administrar permisos"**, asginándole el **rol de colaborador**. De esta manera, podrá acceder al documento y realizar la firma digital correspondiente.
+
+## ¿Cómo firmar documentos por funcionarios que no tienen una subcarpeta de "Firmar documentos"?
+
+Ubicaión: 
+
++ Cargue los documentos en la carpeta **"Firmar documentos" general** (no en una subcarpeta específica como Dirección, Subdirección, entre otras).
+
+Firma digital:
+
++ En el documento que requiere la firma digital, utilice la opción **"Iniciar un flujo de trabajo"** para asignar una tarea a la persona responsable de la firma, indicándole que debe firmar el documento.
+
+Despacho:
+
++ Una vez firmado el documento, aplique la regla **"ENBIAR ARCHIVAR"** para completar el proceso de despacho.
+
+## ¿Cómo firmar un documento por dos o más instancias externas de mi unidad?
+
+1. El documento debe estar ubicado en la **carpeta "Firmar documentos"**.
+2. Ubíquese directamente en el documento y, en el panel de **"Acciones sobre el documento"**, seleccione la opción **"Administrar permisos"**.
+3. Con la opción **"Añadir usuario/grupo"**, busque a la persona por su nombre o número de cédula, haga clic en **"Añadir"**, asígnele el rol **"Colaborador"** y guarde los cambios.
+4. Una vez realizado esto, utilice la opción **"Iniciar un flujo de trabajo"** (Tarea) para signar la tarea a las personas correspondientes, indicándoles las instrucción de firmar digitalmente el documento.
+
 
