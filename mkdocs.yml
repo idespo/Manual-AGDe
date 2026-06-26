@@ -51,10 +51,11 @@ nav:
     - Elaboración de documentos: uso/elabo_docs.md
     - Validación de documentos:
       - Introducción: uso/vali_docs.md
-      - Firmar documentos: uso/firmar.md
+      - Firmar documentos: uso/firmar_docs.md
       - Revisión de documentos: uso/revision.md
     - Despacho: uso/despacho_docs.md
     - Archivo:
+      - Introducción: uso/archivo/index.md
       - Sistema de clasificación: uso/archivo/clasificacion.md
       - Expedientes: 
         - Funcionales: uso/archivo/funcionales.md
