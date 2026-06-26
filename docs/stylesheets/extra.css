@@ -27,3 +27,10 @@
     margin: 0 !important;
 }
 
+/* Añade flecha solo a enlaces con target="_blank" dentro del contenido principal */
+main .md-typeset a[target="_blank"]::after {
+  content: "↗";
+  font-size: smaller;
+  margin-left: .2em;
+  vertical-align: top;
+}
