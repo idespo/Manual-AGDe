@@ -30,4 +30,30 @@ Debo emitir un nuevo documento en el que se indique claramente que se trata de u
 
 ## ¿Cómo comparto una carpeta para la visualización de documentos?
 
+1. En la carpeta **"Archivo y Despacho de Documentos"**, segun la estructura correspondiente (serie documental, expediente, etc.), cree una subcarpeta titulada con el identifiacdor único del documento que se elaboró y se va a despachar.
+2. En la subcarpeta cargue el documento principal y sus respectivos anexos o adjuntos.
+3. Asegúrese de que tanto la carpeta como los documentos adjuntos cuenten con los metadatos completados antes del despacho.
+4. Posteriormente ubíquese sobre la carpeta general sin ingresar a la misma. En la opción **"Más"** (lado derecho), seleccione **"Añadir usuario/grupo"**, busque la instancia destinataria mediante sus siglas y seleccione la opción **"Añadir"**, asigne el rol de colaborador. Con esta acción se habilita el permiso de acceso a la instancia correspondiente para la visualización de la carpeta y de los documentos que esta contiene.
+5. Seguidamente, ingrese a la carpeta y copie el **URL de la carpeta**, a fin de facilitar su acceso oportuno y ágil a la documentación.
 
+## ¿Cómo compartir carpetas al Programa de Desarrollo de Recursos Humanos (PDRH)?
+
+<ol type="a">
+  <li>Trámite ante PDRH</li>
+</ol>
+
+1. Crear la carpeta en la estructura vigente del archivo
+
+    Crear una carpeta normal en la ubicación que corresponda, conforme a la estructura de archivo vigente (sistema de clasificación, serie documental o expediente). Posteriormente, editar sus metadatos según el trámite que se va a gestionar.
+
+2. Incorporar los documentos
+
+    Cargar o mover los documentos correspondientes dentro de la carpeta creada. Verificar que cada documento cuente con sus respectivos metadatos completos (nombre, título, asunto y autor).
+
+3. Crear carpeta de remisión (una vez por año)
+
+    En la ruta: Archivo y Despacho de Documentos → Documentos Archivados → [Año en gestión] crear una carpeta a partir de plantilla denominada: **"Remisión de carpetas para tramitar a Recursos Humanos"**. ^^Esta carpeta se crea únicamente una vez por año^^.
+
+4. Copiar la carpeta del trámite
+
+    
