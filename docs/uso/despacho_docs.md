@@ -52,8 +52,59 @@ Debo emitir un nuevo documento en el que se indique claramente que se trata de u
 
 3. Crear carpeta de remisión (una vez por año)
 
-    En la ruta: Archivo y Despacho de Documentos → Documentos Archivados → [Año en gestión] crear una carpeta a partir de plantilla denominada: **"Remisión de carpetas para tramitar a Recursos Humanos"**. ^^Esta carpeta se crea únicamente una vez por año^^.
+    En la ruta: Archivo y Despacho de Documentos → Documentos Archivados → [Año en gestión] crear una carpeta a partir de plantilla denominada: ***"Remisión de carpetas para tramitar a Recursos Humanos"***. ^^Esta carpeta se crea únicamente una vez por año^^.
 
 4. Copiar la carpeta del trámite
 
-    
+    Desde la estructura de archivo vigente (paso 1), seleccionar la carpeta que contiene los documentos y utilizar la opción *"Copiar a"* hacia la carpta creada a partir de plantilla: *"Remisión de carpetas para tramitar a Recuersos Humanos"*.
+
+5. Ejecutar el despacho
+
+    Ubicarse en la carpeta correspondiente en *"Remisión de carpetas para tramitar a Recursos Humanos"* y aplicar la regla: ***"Mover a Recursos Humanos"***.
+
+<ol type="a" start="2">
+  <li>Corrección de un documento o envío de documentos faltantes a PDHR
+  En estos casos no se debe crear nuevamente la carpeta ni reenviar los documentos ya remitidos. Únicamente se debe atender y corregir la observación indicada por el PDRH.</li>
+</ol>
+
+1. Cargar o corregir el documento
+
+    Incorporar el documento en la ubicación correspondientre dentro de la estructura vigente (sistema de clasificación, serie documental o expediente) y editar sus metadatos.
+
+2. Copiar el documento a la carpeta de remisión anual
+
+    En la ruta: Archivo y Despacho de Documentos → Documentos Archivados → [Año en gestión] copiar el documento a la carpeta creada a partir de plantilla: ***"Remisión de carpetas para tramitar a Recursos Humanos"***.
+
+3. Ejecutar la regla correspondiente
+
+    Aplicar la regla: ***"Documento pendiente de entregar"***.
+
+<ol type="a" start="3">
+  <li>Envío de documentos para archivo al archivo especializado del </li>
+</ol>
+
+1. Crear carpeta en la estructura vigente (cuando aplique)
+
+    En caso de remitir varios documentos, crear una carpeta normal conforme a la estructura de archivo viente y editar sus metadatos.
+
+2. Incorporar los documentos
+
+    Cargar o mover lo documentos correspondientesm, verificando que todos cuenten con metadatos completos.
+
+3. Crear carpeta de remisión (una vez por año)
+
+    En la ruta: Archivo y Despacho de Documentos → Documentos Archivados → [Año en gestión] crear una carpeta a partir de plantilla denominada: ***"Remisión de carpetas para tramitar a Recursos Humanos"***. ^^Esta carperta se crea únicamente una vez por año^^.
+
+4. Copiar la carpeta del trámite
+
+    Desde la estructura vigente (paso 1), utilizar la opción ^^"Copiar a"^^ hacia la carpeta creada a partir de plantilla: ^^"Remisiónal expediente de personal de Recursos Humanos"^^.
+
+5. Ejecutar el despacho
+
+    Ubicarse segín corresponda en la carpeta ^^"Renmisión al expediente de personal de Recursos Humanos"^^^.
+
+**Nota (aplica para las opciones a,b y c)**
+
+>Si el trámite o procedimiento requiere la elaboración de un oficio, este deberá incorporarse dentro de la misma carpeta junto con los demás documentos que confirman la gestión repectiva, asegurando que cuente con los metadatos completos y correctamente consignados (nombre del documento, título, asunto y autor).
+
+
