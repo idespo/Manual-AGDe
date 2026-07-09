@@ -3,20 +3,6 @@
 ## [Inicio](index.md)
 
 ## [Guía de uso](uso/index.md)
-    
-    - [Ingreso](uso/ingreso.md)
-    - [Visualización](uso/visualizacion.md)
-    - [Favorito](uso/favorito.md)
-    - [Recepción de documentos](uso/recep_docs.md)
-    - [Trámite de documentos](uso/trami_docs.md)
-    - [Elaboración de documentos](uso/elabo_docs.md)
-    - [Validación de documentos](uso/vali_docs.md)
-    - [Despacho](uso/despacho_docs.md)
-    - **Archivo**
-        - [Sistema de clasificación](uso/archivo/clasificacion.md)
-        - **Expedientes**
-            - [Funcionales](uso/archivo/funcionales.md)
-            - [Asuntos](uso/archivo/asuntos.md)
 
 ## [FAQ](faq.md)
 
