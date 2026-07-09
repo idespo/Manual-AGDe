@@ -1,0 +1,36 @@
+.custom-indent {
+  padding-left: 2em;
+}
+
+.rojo { color: #e53935; }
+.azul { color: #1e88e5; }
+.verde {color: #4caf50; }
+
+[data-md-color-scheme="default"] {
+  --md-admonition-bg-color-tip: rgba(0, 180, 100, 0.1);
+  --md-admonition-border-color-tip: rgb(0, 180, 100);
+  --md-accent-fg-color: rgb(0, 180, 100);
+}
+
+[data-md-color-scheme="slate"] {
+  --md-admonition-bg-color-tip: rgba(0, 180, 100, 0.2);
+  --md-admonition-border-color-tip: rgb(0, 200, 120);
+}
+
+.flex-container {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.flex-container > div {
+    flex: 1;
+    margin: 0 !important;
+}
+
+/* Añade flecha solo a enlaces con target="_blank" dentro del contenido principal */
+main .md-typeset a[target="_blank"]::after {
+  content: "↗";
+  font-size: smaller;
+  margin-left: .2em;
+  vertical-align: top;
+}
