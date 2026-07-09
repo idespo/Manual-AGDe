@@ -107,4 +107,7 @@ Debo emitir un nuevo documento en el que se indique claramente que se trata de u
 
 >Si el trámite o procedimiento requiere la elaboración de un oficio, este deberá incorporarse dentro de la misma carpeta junto con los demás documentos que confirman la gestión repectiva, asegurando que cuente con los metadatos completos y correctamente consignados (nombre del documento, título, asunto y autor).
 
+**Nota adicional**
+
+>La Rectoría dispone de una carpeta creada a partir de plantilla para el envío de los FAGAS Y FASE. Su funcionamiento es equivalente al de las carpetas de remisión anual utilizadas para el PDRH, por lo que el procedimiento de copia y aplicación de reglas se realiza de manera similar.
 
