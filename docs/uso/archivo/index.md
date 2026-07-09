@@ -27,3 +27,21 @@ Expendientes:
 Series documentales
 
 Sistema de clasificación
+
+## ¿Cuáles documentos debo archivar?
+
+Los documentos que se deben  archivar son los contenidos en las siguientes subcarpetas:
+
++ Documentos archivados:
+
+    Documentos elaborados por la instancia, los cuales ya fueron debidamente despachados.
+
++ Documentos tramitados:
+
+    Documentos recibidos de otras instancias, para los cuales ya se realizó la gestión correspondiente.
+
++ Documentos confidenciales tramitadaos:
+
+    Documentos confidenciales recibidos de otras instancias, para los cuales ya se realizo la gestión correspondiente.
+
+
