@@ -6,6 +6,7 @@ extra_css:
   - stylesheets/extra.css
 
 site_name: Manual de uso del Sistema de Gestión de Documentos Electrónicos (AGDe)
+site_url: https://idespo.github.io/Manual-AGDe/
 theme:
   name: material
   palette:
