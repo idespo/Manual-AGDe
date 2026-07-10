@@ -1,0 +1,39 @@
+# Configuración automática de saltos de línea
+* text=auto
+
+# Archivos de texto que deben usar LF (Linux/macOS)
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+*.sh text eol=lf
+*.txt text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.html text eol=lf
+*.xml text eol=lf
+
+# Archivos que deben usar CRLF (Windows)
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+# Archivos binarios (no modificar)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.gz binary
+*.mp4 binary
+*.webm binary
+*.svg binary
+
+# Archivos de Live2D (binarios o texto, según extensión)
+*.model.json text eol=lf
+*.moc3 binary
+*.physics.json text eol=lf
+*.cdi.json text eol=lf
