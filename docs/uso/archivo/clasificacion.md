@@ -1,4 +1,4 @@
-## Sistema de clasifiacción
+## Sistema de Clasificación
 
 Corresponde archivar los documentos enviados y recibidos con comunicaciones con instancias y con  entes externos. Se debe realizar una subcarpeta para cada instancia y subcarpetas por serie documental. **Sistema organico de archivo**
 
