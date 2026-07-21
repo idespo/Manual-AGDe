@@ -103,7 +103,7 @@ Debo emitir un nuevo documento en el que se indique claramente que se trata de u
 
     Ubicarse segín corresponda en la carpeta ^^"Renmisión al expediente de personal de Recursos Humanos"^^^.
 
-**Nota (aplica para las opciones a,b y c)**
+**Nota (aplica para las opciones a, b y c)**
 
 >Si el trámite o procedimiento requiere la elaboración de un oficio, este deberá incorporarse dentro de la misma carpeta junto con los demás documentos que confirman la gestión repectiva, asegurando que cuente con los metadatos completos y correctamente consignados (nombre del documento, título, asunto y autor).
 
