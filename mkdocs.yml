@@ -65,7 +65,6 @@ nav:
   - Acerca de: about.md
 
 markdown_extensions:
-  - attr_list
   - pymdownx.blocks.caption
   - pymdownx.caret
   - pymdownx.tilde
