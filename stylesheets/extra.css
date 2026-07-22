@@ -27,10 +27,18 @@
     margin: 0 !important;
 }
 
-/* Añade flecha solo a enlaces con target="_blank" dentro del contenido principal */
-main .md-typeset a[target="_blank"]::after {
-  content: "↗";
-  font-size: smaller;
-  margin-left: .2em;
-  vertical-align: top;
+/* Contenedor: letras arriba, números en la sublista */
+.list-alpha-numeric > ol {
+  list-style-type: lower-alpha !important;
+}
+.list-alpha-numeric > ol > li > ol {
+  list-style-type: decimal !important;
+}
+
+/* Contenedor: números arriba, letras en la sublista (el orden clásico) */
+.list-numeric-alpha > ol {
+  list-style-type: decimal !important;
+}
+.list-numeric-alpha > ol > li > ol {
+  list-style-type: lower-alpha !important;
 }
